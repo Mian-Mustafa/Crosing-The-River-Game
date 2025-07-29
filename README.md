@@ -62,6 +62,5 @@ Get all **3 missionaries** and **3 cannibals** safely to the other side of the r
 This project is open-source and available for anyone to use, learn from, or contribute to. Feel free to fork and enhance it!
 
 
-> Put your logic to the test and try solving one of the oldest and trickiest puzzles ever!
-> 🔗 [Clone or download this repo to get started!](#)
+
 
